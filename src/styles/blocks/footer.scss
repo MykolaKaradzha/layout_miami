@@ -1,9 +1,0 @@
-.footer {
-  height: 180px;
-
-  @include backgroundImage("../images/photos/footer_background.jpg");
-
-  @include onTablet {
-    height: 360px;
-  }
-}
